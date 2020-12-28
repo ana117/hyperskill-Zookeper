@@ -3,7 +3,7 @@ Simulating a cctv camera that display different animals.\
 Link to the project [Zookeeper](https://hyperskill.org/projects/98)
 
 ## Test Cases
-WIP
+![zookeeper](https://user-images.githubusercontent.com/63540951/103210470-4fc15a80-4938-11eb-9286-f12166e97310.gif)
 
 ## Stages
 **Stage 1/4: Rush into print**\
